@@ -1,0 +1,6 @@
+FILE_MIMETYPE,FILE_CHARSET,FILE_NAME,NOTES_ID,BRANCH_ID,NOTES_MESSAGE,NOTES_DATE
+application/pdf,,N Queen's.pdf,43,cse,Download This N Queens Notes,2024-08-03T18:42:21
+image/png,,alerts1.png,81,aiml,Be prepared for your surprise test any day,2024-08-06T09:56:43
+text/x-csrc,,math.c,161,cse,notes,2024-08-26T07:31:44
+application/pdf,,6.1 03 - Affiliate Marketing Basics.pdf,62,cse,NOTES,2024-08-03T18:18:47
+image/png,,Screenshot (25).png,101,cse,NOTES,2024-08-14T14:13:39

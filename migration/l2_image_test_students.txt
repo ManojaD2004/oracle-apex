@@ -1,0 +1,28 @@
+X1,Y1,X2,Y2,X3,Y3,IMAGE_ID,X0,Y0,USN,STUDENT_NAME,BRANCH_ID,FILE_MIMETYPE,FILE_CHARSET,FILE_NAME,AI_OUTPUT
+.7601943802833557,.18869289755821228,.7701943802833557,.6611089706420898,.39994165897369385,.6611089706420898,2,.39994165897369385,.18869289755821228,1MP22CS039,Rahul S,cse,image/jpeg,FEEDED,rahul.jpeg,"Black Hair,Cheek,Eyebrow,Forehead,Lip"
+.6702449321746826,.2894837260246277,.6702449321746826,.6547579765319824,.32373008131980896,.6547579765319824,3,.32373008131980896,.2894837260246277,1MP22AI057,Tejas Krishna,aiml,image/jpeg,FEEDED,tejaskrishna.jpeg,"Black Hair,Cheek,Eyebrow,Forehead,Lip"
+.6637179255485535,.3282342851161957,.6637179255485535,.5870391130447388,.23820003867149353,.5870391130447388,4,.23820003867149353,.3282342851161957,1MP23CS006,Aryan,cse,image/jpeg,FEEDED,aryan.jpeg,"Cheek,Eyebrow,Eyewear,Forehead,Lip,APEX Jesus"
+.7114014029502869,.2110687792301178,.7114014029502869,.5787265300750732,.34325531125068665,.5787265300750732,5,.34325531125068665,.2110687792301178,1MP22CS060,Vilas C P,cse,image/jpeg,FEEDED,vilas.jpeg,
+,,,,,,165,,,,,,image/jpeg,DETECT,image.jpeg,
+,,,,,,127,,,,,,image/jpeg,DETECT,image.jpeg,
+,,,,,,131,,,,,,image/jpeg,DETECT,image.jpeg,
+,,,,,,126,,,,,,image/jpeg,DETECT,image.jpeg,
+,,,,,,130,,,,,,image/jpeg,DETECT,image.jpeg,
+,,,,,,147,,,,,,image/jpeg,DETECT,image.jpeg,
+,,,,,,150,,,,,,image/jpeg,DETECT,image.jpeg,
+,,,,,,182,,,,,,image/jpeg,DETECT,image.jpeg,
+,,,,,,188,,,,,,image/jpeg,DETECT,image.jpeg,
+,,,,,,201,,,,,,image/jpeg,DETECT,image.jpeg,
+,,,,,,148,,,,,,image/jpeg,DETECT,image.jpeg,
+,,,,,,146,,,,,,image/jpeg,DETECT,image.jpeg,
+,,,,,,149,,,,,,image/jpeg,DETECT,image.jpeg,
+,,,,,,163,,,,,,image/jpeg,DETECT,image.jpeg,
+,,,,,,190,,,,,,image/jpeg,DETECT,image.jpeg,
+.7705987691879272,.3265950679779053,.7705987691879272,.7191042900085449,.2510734498500824,.7191042900085449,189,.2510734498500824,.3265950679779053,1MP22CS031,Manoja D,cse,image/jpeg,FEEDED,manoja1.jpg,
+,,,,,,166,,,,,,image/jpeg,DETECT,image.jpeg,
+,,,,,,129,,,,,,image/jpeg,DETECT,image.jpeg,
+,,,,,,145,,,,,,image/jpeg,DETECT,image.jpeg,
+,,,,,,144,,,,,,image/jpeg,DETECT,image.jpeg,
+,,,,,,151,,,,,,image/jpeg,DETECT,image.jpeg,
+,,,,,,128,,,,,,image/jpeg,DETECT,image.jpeg,
+,,,,,,132,,,,,,image/jpeg,DETECT,image.jpeg,

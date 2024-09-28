@@ -1,0 +1,8 @@
+AI_OUTPUT,IMAGE_ID,USN,STUDENT_NAME,BRANCH_ID,FILE_MIMETYPE,FILE_CHARSET,FILE_NAME
+"Black Hair,Cheek,Forehead,Smile,Tooth",8,1MP22CS003,Aditya S,cse,image/jpeg,DONE,adityas.jpeg
+"Black Hair,Cheek,Eyebrow,Forehead,Lip",9,1MP22CS039,Rahul S,cse,image/jpeg,DONE,rahul.jpeg
+"Black Hair,Cheek,Eyebrow,Forehead,Lip",29,1MP22AI057,Tejas Krishna,aiml,image/jpeg,DONE,tejaskrishna.jpeg
+"Cheek,Eyebrow,Eyewear,Forehead,Lip",7,1MP23CS006,Aryan,cse,image/jpeg,DONE,aryan.jpeg
+"Active shirt,Black Hair,Cheek,Eyebrow,Forehead",27,1MP22CS060,Vilas C P,cse,image/jpeg,DONE,vilas.jpeg
+"Black Hair,Cheek,Forehead,Human face,Man",28,1MP22CS031,Manoja D,cse,image/jpeg,DONE,manojad.jpeg
+"Cheek,Eyewear,Forehead,Human face,Human head",61,1MP22CS016,Giridhara D,cse,image/jpeg,DONE,17236291675793625558758153197915.jpg

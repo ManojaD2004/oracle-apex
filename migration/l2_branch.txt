@@ -1,0 +1,6 @@
+BRANCH_NAME,BRANCH_ID
+Whole College,all
+Computer Science and Engineering,cse
+Artificial Intelligence and Machine Learning,aiml
+Computer Science and Design,csd
+Information Science and Engineering,ise

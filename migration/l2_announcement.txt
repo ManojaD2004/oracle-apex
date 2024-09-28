@@ -1,0 +1,7 @@
+ANNOUNCEMENT_ID,BRANCH_ID,ANNOUNCEMENT_MESSAGE,ANNOUN_DATE
+2,cse,Hello Hello!,2024-08-05T00:00:00
+61,csd,Come to seminar hall,2024-08-01T00:00:00
+81,cse,Does This Work??,2024-08-05T00:00:00
+101,all,caution!,2024-08-03T00:00:00
+1,cse,Testing,2024-08-01T00:00:00
+21,aiml,Surprise test today yayyyy,2024-08-06T00:00:00

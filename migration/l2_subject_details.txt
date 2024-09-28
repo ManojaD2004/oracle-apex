@@ -1,0 +1,12 @@
+SUBJECT_CODE,SUBJECT_NAME
+BCS405B,Graph Theory
+BCS405c,Maths
+BCS405D,Test Math
+BESCK205,TEST
+BCS403,Database Management System
+BCS402,Micro Controllers
+BCS401,Analysis & Design of Algorithms
+BCS405A,Discrete Mathematical Structures
+BAD402,Artificial Intelligence
+BTEST001,test
+Bcs303,Operating systems
