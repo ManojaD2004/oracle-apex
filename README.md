@@ -1,5 +1,5 @@
 # Oracle APEX
-The two projects of Oracle APEX USI and UTI submitted by team **DarkMode**, runner up, 2nd place in [Oracle Apex Xcelerate](https://inoaug.org/ords/r/inoaug/web/xcelerate-2024?session=8899937344077).
+The two projects of Oracle APEX USI and UTI submitted by team **DarkMode**, runner up, 2nd place in [Oracle Apex Xcelerate](https://inoaug.org/ords/r/inoaug/web/xcelerate-2024?session=8899937344077) 2024.
 
 Export the apps to the Oracle APEX, and you will see the application live and running. 
 
